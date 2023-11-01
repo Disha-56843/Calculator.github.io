@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Disha-56843/Calculator.github.io.git/static/css/main.e14822a9.css",
+    "main.js": "/Disha-56843/Calculator.github.io.git/static/js/main.c8252d17.js",
+    "index.html": "/Disha-56843/Calculator.github.io.git/index.html",
+    "main.e14822a9.css.map": "/Disha-56843/Calculator.github.io.git/static/css/main.e14822a9.css.map",
+    "main.c8252d17.js.map": "/Disha-56843/Calculator.github.io.git/static/js/main.c8252d17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e14822a9.css",
+    "static/js/main.c8252d17.js"
+  ]
+}
